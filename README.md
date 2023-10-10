@@ -1,3 +1,5 @@
 # Aplicativo-Prot-tipo
-Minha ideia para um aplicativo seria o de um aplicativo para recebimento e envio de mensagens, assim como alguns dos aplicativos nativos de celular.
+Minha ideia para o aplicativo seria:
+Recebimento e envio de mensagens, assim como alguns dos aplicativos nativos de celular.
+Informaçoes de usuário: Nome completo, numero registrado e e-mail (opcional).
 Integrantes: Lucas Malaguti Veiga de Matos.
